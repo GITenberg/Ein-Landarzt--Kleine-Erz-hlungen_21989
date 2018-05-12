@@ -1,0 +1,33 @@
+_repo: Ein-Landarzt--Kleine-Erz-hlungen_21989
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kafka, Franz
+    alias: Kafka, F. (Franz)
+    birthdate: 1883
+    deathdate: 1924
+    gutenberg_agent_id: '1735'
+    url: http://www.gutenberg.org/2009/agents/1735
+    wikipedia: http://en.wikipedia.org/wiki/Franz_Kafka
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2007-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21989'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Short stories'
+tableOfContents: "Der neue Advokat\r\nEin Landarzt\r\nAuf der Galerie\r\nEin altes\
+  \ Blatt\r\nVor dem Gesetz\r\nSchakale und Araber\r\nEin Besuch im Bergwerk\r\nDas\
+  \ nächste Dorf\r\nEine kaiserliche Botschaft\r\nDie Sorge des Hausvaters\r\nElf\
+  \ Söhne\r\nEin Brudermord\r\nEin Traum\r\nEin Bericht für eine Akademie"
+title: 'Ein Landarzt: Kleine Erzählungen'
+url: http://www.gutenberg.org/ebooks/21989
